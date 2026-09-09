@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Sri Vamsi Chitta — Data Scientist & Data Engineer" width="100%" />
+<img src="./banner.png" alt="Sri Vamsi Chitta — Data Scientist, ML Engineer and AI Engineer " width="100%" />
 
 ### Data Scientist · ML & AI  Engineer &nbsp;|&nbsp; Remote · US
 
