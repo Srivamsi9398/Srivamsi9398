@@ -66,13 +66,13 @@ My one rule: **every project ends with a number.** Here are some of them.
 
 ## 🎓 Education
 
-**MS, Data Science** — University of North Dakota · `2024 – May 2026`
-
+**MS, Data Science** — University of North Dakota · `Aug 2024 – May 2026`
+**B Tech, EEE** — Ramachandra College of Engineering · `Jun 2016 – Sep 2020`
 <br>
 
 ## 📫 Reach me
 
-[![Email](https://img.shields.io/badge/Email-1F6B5C?style=flat&logo=gmail&logoColor=white)](mailto:srivamsi9398@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1F6B5C?style=flat&logo=gmail&logoColor=white)](mailto:srivamsi.chitta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6B5C?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-vamsi-chitta)
 
 <sub>Built to be used, not to impress.</sub>
