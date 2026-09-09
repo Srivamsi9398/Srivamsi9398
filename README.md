@@ -1,6 +1,6 @@
 <img src="./banner.png" alt="Sri Vamsi Chitta — Data Scientist & Data Engineer" width="100%" />
 
-### Data Scientist · Data Engineer &nbsp;|&nbsp; Remote · US
+### Data Scientist · ML & AI r &nbsp;|&nbsp; Remote · US
 
 I build the unglamorous parts of data science well: the pipelines that don't
 break, the models that hold up in production, and the docs that let the next
