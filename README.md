@@ -67,6 +67,7 @@ My one rule: **every project ends with a number.** Here are some of them.
 ## 🎓 Education
 
 **MS, Data Science** — University of North Dakota · `Aug 2024 – May 2026`
+<br>
 **B Tech, EEE** — Ramachandra College of Engineering · `Jun 2016 – Sep 2020`
 <br>
 
