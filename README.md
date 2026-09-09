@@ -1,5 +1,3 @@
-<img src="./banner.png" alt="Sri Vamsi Chitta — Data Scientist, ML Engineer and AI Engineer " width="100%" />
-
 ### Data Scientist · ML & AI  Engineer &nbsp;|&nbsp; Remote · US
 
 I build the unglamorous parts of data science well: the pipelines that don't
